@@ -1,3 +1,13 @@
 # StationaryShopDBMS
 
 ![image](https://user-images.githubusercontent.com/59645978/125186949-bf4ec580-e24a-11eb-9845-29ff30e980be.png)
+![image](https://user-images.githubusercontent.com/59645978/125186973-e4dbcf00-e24a-11eb-91e5-eba822d4ee72.png)
+![image](https://user-images.githubusercontent.com/59645978/125186980-f2915480-e24a-11eb-9021-9a85ba89b00f.png)
+![image](https://user-images.githubusercontent.com/59645978/125186985-f8873580-e24a-11eb-95a6-0f3868a52fef.png)
+![image](https://user-images.githubusercontent.com/59645978/125186997-0472f780-e24b-11eb-83cb-c3eba3b62a42.png)
+![image](https://user-images.githubusercontent.com/59645978/125187006-0937ab80-e24b-11eb-8068-31243f638262.png)
+![image](https://user-images.githubusercontent.com/59645978/125187016-13f24080-e24b-11eb-88ad-5da4dd802d1b.png)
+![image](https://user-images.githubusercontent.com/59645978/125187019-194f8b00-e24b-11eb-8d52-6f295ecccf34.png)
+![image](https://user-images.githubusercontent.com/59645978/125187031-22d8f300-e24b-11eb-98a3-b44add104313.png)
+![image](https://user-images.githubusercontent.com/59645978/125187035-2bc9c480-e24b-11eb-8c28-50e986ba97bd.png)
+![image](https://user-images.githubusercontent.com/59645978/125187038-31270f00-e24b-11eb-9d4e-80a3cf5650ce.png)
