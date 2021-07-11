@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/59645978/125186973-e4dbcf00-e24a-11eb-91e5-eba822d4ee72.png)
 ![image](https://user-images.githubusercontent.com/59645978/125186980-f2915480-e24a-11eb-9021-9a85ba89b00f.png)
 ![image](https://user-images.githubusercontent.com/59645978/125186985-f8873580-e24a-11eb-95a6-0f3868a52fef.png)
-#This is the starting page of the website which gives the basic introduction to what the website can do. This page contains 2 Buttons namely, “A Seller/Owner” and “A Customer”.
+# This is the starting page of the website which gives the basic introduction to what the website can do. This page contains 2 Buttons namely, “A Seller/Owner” and “A Customer”.
 When the seller needs to update his database when he gets the new stock of items he can click this “A Seller/Owner” button to open the seller’s page.
 This page also contains the “Contact Us” form which is linked to a database and will store all the criticisms and comments if any customer wants to share his feedback with us. And this will help the owner to improve his customer service if he has all the concerns and feedback of the customer in one place.
 
